@@ -4,7 +4,7 @@ const gamesData = [
         id: 1,
         title: "Ball Drop Mania 3D",
         description: "Experience the thrill of dropping balls through challenging obstacles in this addictive 3D physics-based game!",
-        image: "/ball-drop-mania-3d.jpg", // Add your game screenshot here
+        image: "ball-drop-mania-3d.jpg", // Add your game screenshot here
         playStoreLink: "https://play.google.com/store/apps/details?id=com.levelleap.balldropmania3d",
         featured: true
     }
